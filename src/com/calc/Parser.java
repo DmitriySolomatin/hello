@@ -237,7 +237,7 @@ public class Parser {
                 resultString += "I";
             }
         } else if (romanI == 9) {
-            resultString += "IV";
+            resultString += "IX";
         }
 
 
